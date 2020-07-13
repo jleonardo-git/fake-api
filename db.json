@@ -1,6 +1,6 @@
 {
   "status": [
-    { "id": 1, "status": "Green", "noOfEmployee": 843},
+    { "id": 1, "status": "Green", "noOfEmployee": 843 },
     { "id": 2, "status": "Amber", "noOfEmployee": 9 },
     { "id": 3, "status": "Red", "noOfEmployee": 2 }
   ],
