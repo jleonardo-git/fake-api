@@ -34,7 +34,7 @@
     { "id": 27, "request_no":"E027", "description": "Request status update", "status": "Accepted", "date": "2020-07-11T03:22:15.000Z"},
     { "id": 28, "request_no":"E028", "description": "Request status update", "status": "Accepted", "date": "2020-07-11T02:15:15.000Z"},
     { "id": 29, "request_no":"E029", "description": "Request status update", "status": "Accepted", "date": "2020-07-11T01:50:15.000Z"},
-    { "id": 30, "request_no":"E030", "description": "Request status update", "status": "Accepted", "date": "2020-07-11T01:12:15.000Z"},
+    { "id": 30, "request_no":"E030", "description": "Request status update", "status": "Accepted", "date": "2020-07-11T01:12:15.000Z"}
   ],
   "profile": {
     "name": "typicode"
